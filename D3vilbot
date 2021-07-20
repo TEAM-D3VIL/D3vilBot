@@ -4,12 +4,12 @@
 _repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $HELL_REPO == "D3vilBot" ]]
+    if [[ $D3VIL_REPO == "D3vilBot" ]]
     then
-        echo "" | base64 -d
-    elif [[ $HELL_REPO == "D3vilbot" ]]
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1RFQU0tRDNWSUwvRDN2aWxCb3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+    elif [[ $D3VIL_REPO == "D3vilbot" ]]
     then
-        echo "" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1RFQU0tRDNWSUwvRDN2aWxCb3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     elif [[ $D3VIL_REPO =~ $regex ]]
     then
         if [[ $D3VIL_REPO_BRANCH ]]
@@ -19,7 +19,7 @@ _repolink () {
             echo "${D3VIL_REPO}/archive/master.zip"
         fi
     else
-        echo "" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1RFQU0tRDNWSUwvRDN2aWxCb3QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
     fi
 }
 
