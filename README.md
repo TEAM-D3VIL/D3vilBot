@@ -95,7 +95,7 @@
 - `LOGGER_ID`  =  Make A Channel And Get it's ID.
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
-<\details>
+</details>
 <details>
   <summary> <h4>• DISCLAIMER •</h4> </summary>
 
@@ -107,7 +107,7 @@
 - If you fork this repo and edit plugins, it's your concern for further updates.
 - Forking Repo is fine. But if you edit something we will not provide any help.
 - In short, Fork At Your Own Risk.
-<\details>
+</details>
 
 <details>
   <summary> <h4>• LICENCE •</h4> </summary>
@@ -128,7 +128,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
-<\details>
+</details>
 
 <details>
   <summary> <h4>• CREDIT'S •</h4> </summary>
@@ -142,4 +142,4 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 -   ⚜️[Shincahn](https://t.me/Shinchan7222)
 -   ⚜️[Team D3vil](https://t.me/D3VIL_OP_BOLTE)
 
-<\details
+</details
