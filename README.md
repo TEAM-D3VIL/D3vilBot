@@ -31,6 +31,8 @@
 - Some Mandatory Variables Are listed [Here](#Variables)
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-D3VIL/D3vilBot)
 
+ <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TEAM-D3VIL/D3vilBot"> <img src="https://img.shields.io/badge/D3VILBOT Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
 <details>
   <summary> <h4>• 𝐃𝐄𝐏𝐋𝐎𝐘 𝐋𝐎𝐂𝐀𝐋𝐋𝐘•</h4> </summary>
 
@@ -66,7 +68,7 @@
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Your D3vilBot Session Will be saved in your Telegram Saved Message.
-- [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@D3krish/D3VILBOTSTRINGSESSION#main.py)
+- [![REPL](https://repl.it/badge/github/D3KRISH/D3vilUserbot)](https://replit.com/@D3krish/D3VILBOTSTRINGSESSION#main.py)
 `bash start.sh`
 <details>
   <summary> <h4>• 𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋 •</h4> </summary>
