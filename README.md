@@ -108,8 +108,20 @@
 - Forking Repo is fine. But if you edit something we will not provide any help.
 - In short, Fork At Your Own Risk.
 </details>
-
 <details>
+  <summary> <h4>• 𝐂𝐑𝐄𝐃𝐈𝐓'𝐒 •</h4> </summary>
+
+
+## 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
+
+-   ⚜️[Lonami](https://github.com/Lonami) for [Telethon](https://github.com/LonamiWebs/Telethon)
+-   ⚜️[HellBot](https://github.com/The-HellBot/HellBot)
+-   ⚜️[Himanshu](https://t.me/H1M4N5HU0P)
+-   ⚜️[Shincahn](https://t.me/Shinchan7222)
+-   ⚜️[Team D3vil](https://t.me/D3VIL_OP_BOLTE)
+
+</details
+
   <summary> <h4>• 𝐋𝐈𝐂𝐄𝐍𝐂𝐄 •</h4> </summary>
 
 # License
@@ -128,18 +140,4 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
-</details>
 
-<details>
-  <summary> <h4>• 𝐂𝐑𝐄𝐃𝐈𝐓'𝐒 •</h4> </summary>
-
-
-## 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
-
--   ⚜️[Lonami](https://github.com/Lonami) for [Telethon](https://github.com/LonamiWebs/Telethon)
--   ⚜️[HellBot](https://github.com/The-HellBot/HellBot)
--   ⚜️[Himanshu](https://t.me/H1M4N5HU0P)
--   ⚜️[Shincahn](https://t.me/Shinchan7222)
--   ⚜️[Team D3vil](https://t.me/D3VIL_OP_BOLTE)
-
-</details
