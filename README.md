@@ -108,8 +108,7 @@
 - Forking Repo is fine. But if you edit something we will not provide any help.
 - In short, Fork At Your Own Risk.
 </details>
-<details>
-  <summary> <h4>• 𝐂𝐑𝐄𝐃𝐈𝐓'𝐒 •</h4> </summary>
+<details> <summary> <h4>• 𝐂𝐑𝐄𝐃𝐈𝐓'𝐒 •</h4> </summary>
 
 
 ## 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
@@ -122,10 +121,7 @@
 
 </details
 
-  <summary> <h4>• 𝐋𝐈𝐂𝐄𝐍𝐂𝐄 •</h4> </summary>
-
-# License
-
+## 𝐋𝐈𝐂𝐄𝐍𝐂𝐄
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
 <h4 align="center">Copyright (C) 2021 <a href="https://github.com/TEAM-D3VIL">D3VILBOT</a></h4>
