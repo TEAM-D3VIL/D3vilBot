@@ -21,7 +21,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/TEAM-D3VIL/D3vilBot?&style=flat-square&logo=github)
 
 
-## 🚀 Deploy 🚀
+## 🚀 𝐃𝐞𝐩𝐥𝐨𝐲 🚀
 - [![Deploy](https://telegra.ph/file/963569b838ae9442c59d1.jpg)](#Deploy-To-Heroku)
 
 - [![Locally](https://telegra.ph/file/15027ba18429789a77255.jpg)](#Deploy-Locally)
@@ -29,17 +29,19 @@
 - [![string](https://telegra.ph/file/51929290786cc1bd0a75a.jpg)](#D3VILBOT_SESSION)
 
 
-## Telegram 🚀
+## 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 🚀
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/D3VIL_BOT_SUPPORT)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/D3VIL_SUPPORT)
 
-## Deploy To Heroku
+## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐨 𝐇𝐞𝐫𝐨𝐤𝐮
 - Get All The Necessary Variables And Deploy To Heroku.
 - Some Mandatory Variables Are listed [Here](#Variables)
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-D3VIL/D3vilBot)
 
+<details>
+  <summary> <h4>• 𝐃𝐄𝐏𝐋𝐎𝐘 𝐋𝐎𝐂𝐀𝐋𝐋𝐘•</h4> </summary>
 
-## Deploy Locally
+## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐋𝐨𝐜𝐚𝐥𝐥𝐲
 
 - Clone the repo. 
 
@@ -60,9 +62,9 @@
 `python d3vil_string.py`
 - Create config.py or rename ex_config.py to config.py. Fill All The Required Variables.
 - Finally Start D3VILBOT By
+</details>
 
-
-### D3VILBOT_SESSION
+### 𝐃3𝐕𝐈𝐋𝐁𝐎𝐓_𝐒𝐄𝐒𝐒𝐈𝐎𝐍
 
 - Open Repl Link.
 - Click on Green Play Button.
@@ -73,8 +75,10 @@
 - Your D3vilBot Session Will be saved in your Telegram Saved Message.
 - [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@D3krish/D3VILBOTSTRINGSESSION#main.py)
 `bash start.sh`
+<details>
+  <summary> <h4>• 𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋 •</h4> </summary>
 
-### Terminal
+### 𝐓𝐞𝐫𝐦𝐢𝐧𝐚𝐥
 - Open the terminal.
 - Paste this code.
 
@@ -84,10 +88,11 @@
 - If You have Enabled 2-Step Verification then fill your password.
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
 - Your D3vilBot Session Will be saved in your Telegram Saved Message.
+</details>
 <details>
-  <summary> <h4>• VARIABLE •</h4> </summary>
+  <summary> <h4>• 𝐕𝐀𝐑𝐈𝐀𝐁𝐋𝐄 •</h4> </summary>
 
-## Variables
+## 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
@@ -97,9 +102,9 @@
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
 </details>
 <details>
-  <summary> <h4>• DISCLAIMER •</h4> </summary>
+  <summary> <h4>• 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 •</h4> </summary>
 
-## Disclaimer
+## 𝐃𝐢𝐬𝐜𝐥𝐚𝐢𝐦𝐞𝐫
 - We won't be responsible for any kind of ban due to this bot.
 - HellBot was made for fun purpose and to make group management easier.
 - It's your concern if you spam and gets your account banned.
@@ -110,7 +115,7 @@
 </details>
 
 <details>
-  <summary> <h4>• LICENCE •</h4> </summary>
+  <summary> <h4>• 𝐋𝐈𝐂𝐄𝐍𝐂𝐄 •</h4> </summary>
 
 # License
 
@@ -131,10 +136,10 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 </details>
 
 <details>
-  <summary> <h4>• CREDIT'S •</h4> </summary>
+  <summary> <h4>• 𝐂𝐑𝐄𝐃𝐈𝐓'𝐒 •</h4> </summary>
 
 
-## Credits
+## 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
 
 -   ⚜️[Lonami](https://github.com/Lonami) for [Telethon](https://github.com/LonamiWebs/Telethon)
 -   ⚜️[HellBot](https://github.com/The-HellBot/HellBot)
