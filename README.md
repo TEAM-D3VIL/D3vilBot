@@ -26,7 +26,7 @@
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/D3VIL_BOT_SUPPORT)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/D3VIL_SUPPORT)
 
-## 🚀 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐨 𝐇𝐞𝐫𝐨𝐤𝐮 🚀
+## 🚀 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐨 𝐇𝐞𝐫𝐨𝐤𝐮 
 - Get All The Necessary Variables And Deploy To Heroku.
 - Some Mandatory Variables Are listed [Here](#Variables)
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-D3VIL/D3vilBot)
@@ -34,7 +34,7 @@
  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TEAM-D3VIL/D3vilBot"> <img src="https://img.shields.io/badge/D3VILBOT Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <details>
-  <summary> <h4>• 𝐃𝐄𝐏𝐋𝐎𝐘 𝐋𝐎𝐂𝐀𝐋𝐋𝐘•</h4> </summary>
+  <summary> <h4>• ⚡𝐃𝐄𝐏𝐋𝐎𝐘 𝐋𝐎𝐂𝐀𝐋𝐋𝐘⚡•</h4> </summary>
 
 ## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐋𝐨𝐜𝐚𝐥𝐥𝐲
 
@@ -59,7 +59,7 @@
 - Finally Start D3VILBOT By
 </details>
 
-### 𝐃3𝐕𝐈𝐋𝐁𝐎𝐓_𝐒𝐄𝐒𝐒𝐈𝐎𝐍
+### ⚡𝐃3𝐕𝐈𝐋𝐁𝐎𝐓_𝐒𝐄𝐒𝐒𝐈𝐎𝐍⚡
 
 - Open Repl Link.
 - Click on Green Play Button.
@@ -71,7 +71,7 @@
 - [![REPL](https://repl.it/badge/github/D3KRISH/D3vilUserbot)](https://replit.com/@D3krish/D3VILBOTSTRINGSESSION#main.py)
 `bash start.sh`
 <details>
-  <summary> <h4>• 𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋 •</h4> </summary>
+  <summary> <h4>• ⚡𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋⚡ •</h4> </summary>
 
 ### 𝐓𝐞𝐫𝐦𝐢𝐧𝐚𝐥
 - Open the terminal.
@@ -85,7 +85,7 @@
 - Your D3vilBot Session Will be saved in your Telegram Saved Message.
 </details>
 <details>
-  <summary> <h4>• 𝐕𝐀𝐑𝐈𝐀𝐁𝐋𝐄 •</h4> </summary>
+  <summary> <h4>• ⚡𝐕𝐀𝐑𝐈𝐀𝐁𝐋𝐄⚡ •</h4> </summary>
 
 ## 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬
 
@@ -97,7 +97,7 @@
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
 </details>
 <details>
-  <summary> <h4>• 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 •</h4> </summary>
+  <summary> <h4>• ⚡𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑⚡ •</h4> </summary>
 
 ## 𝐃𝐢𝐬𝐜𝐥𝐚𝐢𝐦𝐞𝐫
 - We won't be responsible for any kind of ban due to this bot.
@@ -108,7 +108,8 @@
 - Forking Repo is fine. But if you edit something we will not provide any help.
 - In short, Fork At Your Own Risk.
 </details>
-<details> <summary> <h4>• 𝐂𝐑𝐄𝐃𝐈𝐓'𝐒 •</h4> </summary>
+<details> 
+<summary> <h4>•⚡ 𝐂𝐑𝐄𝐃𝐈𝐓'𝐒⚡ •</h4> </summary>
 
 
 ## 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
@@ -121,7 +122,7 @@
 
 </details
 
-## 𝐋𝐈𝐂𝐄𝐍𝐂𝐄
+## ⚡𝐋𝐈𝐂𝐄𝐍𝐂𝐄⚡
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
 <h4 align="center">Copyright (C) 2021 <a href="https://github.com/TEAM-D3VIL">D3VILBOT</a></h4>
