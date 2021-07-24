@@ -21,19 +21,12 @@
 ![Repo Size](https://img.shields.io/github/repo-size/TEAM-D3VIL/D3vilBot?&style=flat-square&logo=github)
 
 
-## 🚀 𝐃𝐞𝐩𝐥𝐨𝐲 🚀
-- [![Deploy](https://telegra.ph/file/963569b838ae9442c59d1.jpg)](#Deploy-To-Heroku)
-
-- [![Locally](https://telegra.ph/file/15027ba18429789a77255.jpg)](#Deploy-Locally)
-
-- [![string](https://telegra.ph/file/51929290786cc1bd0a75a.jpg)](#D3VILBOT_SESSION)
-
 
 ## 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 🚀
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/D3VIL_BOT_SUPPORT)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/D3VIL_SUPPORT)
 
-## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐨 𝐇𝐞𝐫𝐨𝐤𝐮
+## 🚀 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐨 𝐇𝐞𝐫𝐨𝐤𝐮 🚀
 - Get All The Necessary Variables And Deploy To Heroku.
 - Some Mandatory Variables Are listed [Here](#Variables)
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-D3VIL/D3vilBot)
