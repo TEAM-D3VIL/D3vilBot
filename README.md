@@ -63,25 +63,17 @@
 
 - Open Repl Link.
 - Click on Green Play Button.
-- Wait for requirements to finish.
-- Fill API ID, API HASH, Phone number (with country code).
-- Paste the OTP received on Telegram.
-- If You have Enabled 2-Step Verification then fill your password.
 - Your D3vilBot Session Will be saved in your Telegram Saved Message.
 - [![REPL](https://repl.it/badge/github/D3KRISH/D3vilUserbot)](https://replit.com/@D3krish/D3VILBOTSTRINGSESSION#main.py)
 `bash start.sh`
-<details>
-  <summary> <h4>• 𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋 •</h4> </summary>
+
+## • 𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋 •
 
 ### 𝐓𝐞𝐫𝐦𝐢𝐧𝐚𝐥
 - Open the terminal.
 - Paste this code.
 
 `pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/D3KRISH/D3vilUserbot/master/d3vil_string.py && python3 d3vil_string.py`
-- Fill API ID, API HASH, Phone number (with country code).
-- Paste the OTP received on Telegram.
-- If You have Enabled 2-Step Verification then fill your password.
-- Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
 - Your D3vilBot Session Will be saved in your Telegram Saved Message.
 </details>
 <details>
