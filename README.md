@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/ad8abbfbcb2f93f91b10f.jpg" alt=D3KRISH">
+  <img src="https://telegra.ph/file/883f837877a4804827cac.jpg" alt=D3KRISH">
 </p>
 
 -------
 
 <h3 align="center">
-  <b>A Smooth & Fast Telegram Userbot Based On Telethon Bot Library.</b>
+  <b>ᏖᏂᎥᏕ ᎥᏕ Ꮧ ᏕᎷᎧᎧᏖᏂ & ᎦᏗᏕᏖ ᏖᏋᏝᏋᎶᏒᏗᎷ ᏬᏕᏋᏒᏰᎧᏖ ᏰᏗᏕᏋᎴ ᎧᏁ ᏖᏋᏝᏋᏖᏂᎧᏁ ᏰᎧᏖ ᏝᎥᏰᏒᏗᏒᎩ. ᏇᏋ ᏬᏕᏋ ᏬᏕᏋ ᎮᎩᏖᏂᎧᏁ ᏝᏗᏁᎶᏬᏗᎶᏋ ᏖᎧ ᎷᏗᏦᏋ ᏖᏂᎥᏕ ᏰᎧᏖ .</b>
 </h3>
 
 
@@ -23,12 +23,11 @@
 
 
 ## 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 🚀
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/D3VIL_BOT_SUPPORT)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/D3VIL_SUPPORT)
+- [![𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙶𝚛𝚘𝚞𝚙](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/D3VIL_BOT_SUPPORT)
+- [![𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙲𝚑𝚊𝚗𝚗𝚎𝚕](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/D3VIL_SUPPORT)
 
 ## 🚀 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐨 𝐇𝐞𝐫𝐨𝐤𝐮 
-- Get All The Necessary Variables And Deploy To Heroku.
-- Some Mandatory Variables Are listed [Here](#Variables)
+- 𝙶𝚎𝚝 𝙰𝚕𝚕 𝚃𝚑𝚎 𝙽𝚎𝚌𝚎𝚜𝚜𝚊𝚛𝚢 𝚅𝚊𝚛𝚒𝚊𝚋𝚕𝚎𝚜 𝙰𝚗𝚍 𝙳𝚎𝚙𝚕𝚘𝚢 𝚃𝚘 𝙷𝚎𝚛𝚘𝚔𝚞.
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-D3VIL/D3vilBot)
 
  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TEAM-D3VIL/D3vilBot"> <img src="https://img.shields.io/badge/D3VILBOT Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
@@ -38,40 +37,40 @@
 
 ## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐋𝐨𝐜𝐚𝐥𝐥𝐲
 
-- Clone the repo. 
+- 𝙲𝚕𝚘𝚗𝚎 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘. 
 
 `git clone https://github.com/D3KRISH/D3vilUserbot.git`
-- Open Cloned Folder.
+- 𝙾𝚙𝚎𝚗 𝙲𝚕𝚘𝚗𝚎𝚍 𝙵𝚘𝚕𝚍𝚎𝚛.
 
 `cd D3vilUserbot`
-- Create VirtualEnv.
+- 𝙲𝚛𝚎𝚊𝚝𝚎 VirtualEnv.
 
 `virtualenv -p /usr/bin/python3 venv`
 
 `. ./venv/bin/activate`
-- Install Requirements.
+- 𝙸𝚗𝚜𝚝𝚊𝚕𝚕 𝚁𝚎𝚚𝚞𝚒𝚛𝚎𝚖𝚎𝚗𝚝𝚜.
 
 `pip install -U -r requirements.txt`
-- Generate D3VILBOT SESSION.
+- 𝙶𝚎𝚗𝚎𝚛𝚊𝚝𝚎 D3𝚅𝙸𝙻𝙱𝙾𝚃 𝚂𝙴𝚂𝚂𝙸𝙾𝙽.
 
 `python d3vil_string.py`
-- Create config.py or rename ex_config.py to config.py. Fill All The Required Variables.
-- Finally Start D3VILBOT By
+- 𝙲𝚛𝚎𝚊𝚝𝚎 config.py 𝚘𝚛 𝚛𝚎𝚗𝚊𝚖𝚎 ex_config.py 𝚝𝚘 config.py. 𝙵𝚒𝚕𝚕 𝙰𝚕𝚕 𝚃𝚑𝚎 𝚁𝚎𝚚𝚞𝚒𝚛𝚎𝚍 𝚅𝚊𝚛𝚒𝚊𝚋𝚕𝚎𝚜.
+- 𝙵𝚒𝚗𝚊𝚕𝚕𝚢 𝚂𝚝𝚊𝚛𝚝 D3𝚅𝙸𝙻𝙱𝙾𝚃 𝙱𝚢
 </details>
 
 ### 𝐃3𝐕𝐈𝐋𝐁𝐎𝐓_𝐒𝐄𝐒𝐒𝐈𝐎𝐍
 
-- Open Repl Link.
-- Click on Green Play Button.
-- Your D3vilBot Session Will be saved in your Telegram Saved Message.
+- 𝙾𝚙𝚎𝚗 𝚁𝚎𝚙𝚕 𝙻𝚒𝚗𝚔.
+- 𝙲𝚕𝚒𝚌𝚔 𝚘𝚗 𝙶𝚛𝚎𝚎𝚗 𝙿𝚕𝚊𝚢 𝙱𝚞𝚝𝚝𝚘𝚗.
+- 𝚈𝚘𝚞𝚛𝚢 D3𝚟𝚒𝚕𝙱𝚘𝚝 𝚂𝚎𝚜𝚜𝚒𝚘𝚗 𝚆𝚒𝚕𝚕 𝚋𝚎 𝚜𝚊𝚟𝚎𝚍 𝚒𝚗 𝚢𝚘𝚞𝚛 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚂𝚊𝚟𝚎𝚍 𝙼𝚎𝚜𝚜𝚊𝚐𝚎.
 - [![REPL](https://repl.it/badge/github/D3KRISH/D3vilUserbot)](https://replit.com/@D3krish/D3VILBOTSTRINGSESSION#main.py)
 `bash start.sh`
 
 ## • 𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋 •
 
 ### 𝐓𝐞𝐫𝐦𝐢𝐧𝐚𝐥
-- Open the terminal.
-- Paste this code.
+- 𝙾𝚙𝚎𝚗 𝚝𝚑𝚎 𝚝𝚎𝚛𝚖𝚒𝚗𝚊𝚕.
+- 𝙿𝚊𝚜𝚝𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎.
 
 `pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/D3KRISH/D3vilUserbot/master/d3vil_string.py && python3 d3vil_string.py`
 - Your D3vilBot Session Will be saved in your Telegram Saved Message.
@@ -81,24 +80,24 @@
 
 ## 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬
 
-- `APP_ID`  =  Get this value from my.telegram.org
-- `API_HASH`  =  Get this value from my.telegram.org
-- `D3VILLBOT_SESSION`  =  Get this by using [Repl.it](#D3VILBOT_SESSION) or from [terminal](#Terminal)
-- `LOGGER_ID`  =  Make A Channel And Get it's ID.
-- `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
-- `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
+- `APP_ID`  =  𝙶𝚎𝚝 𝚝𝚑𝚒𝚜 𝚟𝚊𝚕𝚞𝚎 𝚏𝚛𝚘𝚖 my.telegram.𝚘𝚛𝚐 𝚘𝚛 [telegram.org bot](https://t.me/api_id_scrapperbot)
+- `API_HASH`  =  𝙶𝚎𝚝 𝚝𝚑𝚒𝚜 𝚟𝚊𝚕𝚞𝚎 𝚏𝚛𝚘𝚖 my.telegram.𝚘𝚛𝚐 𝚘𝚛 [telegram.org bot](https://t.me/api_id_scrapperbot)
+- `D3VILLBOT_SESSION`  =  𝙶𝚎𝚝 𝚝𝚑𝚒𝚜 𝚋𝚢 𝚞𝚜𝚒𝚗𝚐 [Repl.it](#D3VILBOT_SESSION) or from [terminal](#Terminal)
+- `LOGGER_ID`  =  𝙼𝚊𝚔𝚎 𝙰 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 𝙰𝚗𝚍 𝙶𝚎𝚝 𝚒𝚝'𝚜 𝙸𝙳.
+- `BOT_TOKEN`  =  𝙼𝚊𝚔𝚎 𝙰 𝙱𝚘𝚝 𝙵𝚛𝚘𝚖 [@BotFather](https://t.me/botfather) 𝚊𝚗𝚍 𝚙𝚊𝚜𝚝𝚎 𝚒𝚝'𝚜 𝚝𝚘𝚔𝚎𝚗.
+- `BOT_USERNAME`  =  𝙶𝚎𝚝 𝚝𝚑𝚎 𝚞𝚜𝚎𝚛𝚗𝚊𝚖𝚎 𝚘𝚏 𝚝𝚑𝚊𝚝 𝙱𝚘𝚝 𝚖𝚊𝚍𝚎 𝚏𝚛𝚘𝚖 [@Botfather](https://t.me/botfather)
 </details>
 <details>
   <summary> <h4>• 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 •</h4> </summary>
 
 ## 𝐃𝐢𝐬𝐜𝐥𝐚𝐢𝐦𝐞𝐫
-- We won't be responsible for any kind of ban due to this bot.
-- HellBot was made for fun purpose and to make group management easier.
-- It's your concern if you spam and gets your account banned.
-- Also, Forks won't be entertained.
-- If you fork this repo and edit plugins, it's your concern for further updates.
-- Forking Repo is fine. But if you edit something we will not provide any help.
-- In short, Fork At Your Own Risk.
+- 𝚆𝚎 𝚠𝚘𝚗'𝚝 𝚋𝚎 𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚒𝚋𝚕𝚎 𝚏𝚘𝚛 𝚊𝚗𝚢 𝚔𝚒𝚗𝚍 𝚘𝚏 𝚋𝚊𝚗 𝚍𝚞𝚎 𝚝𝚘 𝚝𝚑𝚒𝚜 𝚋𝚘𝚝.
+- 𝙳3𝚅𝙸𝙻𝙱𝚘𝚝 was 𝚖𝚊𝚍𝚎 𝚏𝚘𝚛 𝚏𝚞𝚗 𝚙𝚞𝚛𝚙𝚘𝚜𝚎 𝚊𝚗𝚍 𝚝𝚘 𝚖𝚊𝚔𝚎 group 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚎𝚊𝚜𝚒𝚎𝚛.
+- 𝙸𝚝'𝚜 𝚢𝚘𝚞𝚛 𝚌𝚘𝚗𝚌𝚎𝚛𝚗 𝚒𝚏 𝚢𝚘𝚞 𝚜𝚙𝚊𝚖 𝚊𝚗𝚍 𝚐𝚎𝚝𝚜 𝚢𝚘𝚞𝚛 𝚊𝚌𝚌𝚘𝚞𝚗𝚝 𝚋𝚊𝚗𝚗𝚎𝚍.
+- 𝙰𝚕𝚜𝚘, 𝙵𝚘𝚛𝚔𝚜 𝚠𝚘𝚗'𝚝 𝚋𝚎 entertained.
+- 𝙸𝚏 𝚢𝚘𝚞 𝚏𝚘𝚛𝚔 this 𝚛𝚎𝚙𝚘 𝚊𝚗𝚍 𝚎𝚍𝚒𝚝 plugins, 𝚒𝚝'𝚜 𝚢𝚘𝚞𝚛 𝚌𝚘𝚗𝚌𝚎𝚛𝚗 𝚏𝚘𝚛 𝚏𝚞𝚛𝚝𝚑𝚎𝚛 𝚞𝚙𝚍𝚊𝚝𝚎𝚜.
+- 𝙵𝚘𝚛𝚔𝚒𝚗𝚐 𝚁𝚎𝚙𝚘 𝚒𝚜 𝚏𝚒𝚗𝚎. 𝙱𝚞𝚝 𝚒𝚏 𝚢𝚘𝚞 𝚎𝚍𝚒𝚝 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚠𝚎 𝚠𝚒𝚕𝚕 𝚗𝚘𝚝 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚊𝚗𝚢 𝚑𝚎𝚕𝚙.
+- 𝙸𝚗 𝚜𝚑𝚘𝚛𝚝, 𝙵𝚘𝚛𝚔 𝙰𝚝 𝚈𝚘𝚞𝚛 𝙾𝚠𝚗 𝚁𝚒𝚜𝚔.
 </details>
 <details> 
 <summary> <h4>• 𝐂𝐑𝐄𝐃𝐈𝐓'𝐒 •</h4> </summary>
