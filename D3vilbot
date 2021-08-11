@@ -26,7 +26,7 @@ _repolink () {
 
 start_bot () {
     local zippath
-    zippath="myd3vilbot.zip"
+    zippath="D3vilBot.zip"
     echo "  Downloading source code ..."
     wget -q $(_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
