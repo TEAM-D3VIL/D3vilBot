@@ -6,10 +6,10 @@ _repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $D3VIL_REPO == "D3vilBot" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0QzS1JJU0gvRDN2aWxVc2VyYm90L2FyY2hpdmUvcmVmcy9oZWFkcy9kM3ZpbC56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0QzS1JJU0gvRDN2aWxVc2VyYm90L3RyZWUvZDN2aWw=" | base64 -d
     elif [[ $D3VIL_REPO == "D3vilbot" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0QzS1JJU0gvRDN2aWxVc2VyYm90L2FyY2hpdmUvcmVmcy9oZWFkcy9kM3ZpbC56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0QzS1JJU0gvRDN2aWxVc2VyYm90L3RyZWUvZDN2aWw=" | base64 -d
     elif [[ $D3VIL_REPO =~ $regex ]]
     then
         if [[ $D3VIL_REPO_BRANCH ]]
@@ -19,7 +19,7 @@ _repolink () {
             echo "${D3VIL_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0QzS1JJU0gvRDN2aWxVc2VyYm90L2FyY2hpdmUvcmVmcy9oZWFkcy9kM3ZpbC56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL0QzS1JJU0gvRDN2aWxVc2VyYm90L3RyZWUvZDN2aWw=" | base64 -d
     fi
 }
 
