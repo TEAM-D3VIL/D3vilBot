@@ -118,6 +118,16 @@
       "description": "Userid of user to grant sudo access. Add multiple sudo users by giving a space between userids",
       "value": "",
       "required": false
+    },
+    "EXTRA": {
+      "discription": "If you want to add Extra plugin Then Put value True",
+      "value": "True",
+      "required": false
+    },
+    "EXTRA_REPO": {
+    "discription": "DON'T EDIT THIS",
+    "value": "https://github.com/TEAM-D3VIL/D3VILADDONS",
+    "required": false
     }
   },
   "addons": [{
