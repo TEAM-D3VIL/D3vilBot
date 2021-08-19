@@ -29,7 +29,7 @@
  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TEAM-D3VIL/D3vilBot"> <img src="https://img.shields.io/badge/D3VILBOT Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <details>
-  <summary> <h4>• 𝐃𝐄𝐏𝐋𝐎𝐘 𝐋𝐎𝐂𝐀𝐋𝐋𝐘•</h4> </summary>
+<summary> 𝐃𝐄𝐏𝐋𝐎𝐘 𝐋𝐎𝐂𝐀𝐋𝐋𝐘•</summary>
 
 ## 𝐃𝐞𝐩𝐥𝐨𝐲 𝐋𝐨𝐜𝐚𝐥𝐥𝐲
 
@@ -71,10 +71,9 @@
 `pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/D3KRISH/D3vilUserbot/master/d3vil_string.py && python3 d3vil_string.py`
 - Your D3vilBot Session Will be saved in your Telegram Saved Message.
 </details>
-<details>
-  <summary> <h4>• ⚡𝐕𝐀𝐑𝐈𝐀𝐁𝐋𝐄⚡ •</h4> </summary>
 
-## 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬
+<details>
+<summary>• 𝐕𝐀𝐑𝐈𝐀𝐁𝐋𝐄 •</summary>
 
 - `APP_ID`  =  𝙶𝚎𝚝 𝚝𝚑𝚒𝚜 𝚟𝚊𝚕𝚞𝚎 𝚏𝚛𝚘𝚖 my.telegram.𝚘𝚛𝚐 𝚘𝚛 [telegram.org bot](https://t.me/api_id_scrapperbot)
 - `API_HASH`  =  𝙶𝚎𝚝 𝚝𝚑𝚒𝚜 𝚟𝚊𝚕𝚞𝚎 𝚏𝚛𝚘𝚖 my.telegram.𝚘𝚛𝚐 𝚘𝚛 [telegram.org bot](https://t.me/api_id_scrapperbot)
@@ -83,10 +82,9 @@
 - `BOT_TOKEN`  =  𝙼𝚊𝚔𝚎 𝙰 𝙱𝚘𝚝 𝙵𝚛𝚘𝚖 [@BotFather](https://t.me/botfather) 𝚊𝚗𝚍 𝚙𝚊𝚜𝚝𝚎 𝚒𝚝'𝚜 𝚝𝚘𝚔𝚎𝚗.
 - `BOT_USERNAME`  =  𝙶𝚎𝚝 𝚝𝚑𝚎 𝚞𝚜𝚎𝚛𝚗𝚊𝚖𝚎 𝚘𝚏 𝚝𝚑𝚊𝚝 𝙱𝚘𝚝 𝚖𝚊𝚍𝚎 𝚏𝚛𝚘𝚖 [@Botfather](https://t.me/botfather)
 </details>
-<details>
-  <summary> <h4>• 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 •</h4> </summary>
 
-## 𝐃𝐢𝐬𝐜𝐥𝐚𝐢𝐦𝐞𝐫
+<details>
+<summary>• 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 •</summary>
 - 𝚆𝚎 𝚠𝚘𝚗'𝚝 𝚋𝚎 𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚒𝚋𝚕𝚎 𝚏𝚘𝚛 𝚊𝚗𝚢 𝚔𝚒𝚗𝚍 𝚘𝚏 𝚋𝚊𝚗 𝚍𝚞𝚎 𝚝𝚘 𝚝𝚑𝚒𝚜 𝚋𝚘𝚝.
 - 𝙳3𝚅𝙸𝙻𝙱𝚘𝚝 was 𝚖𝚊𝚍𝚎 𝚏𝚘𝚛 𝚏𝚞𝚗 𝚙𝚞𝚛𝚙𝚘𝚜𝚎 𝚊𝚗𝚍 𝚝𝚘 𝚖𝚊𝚔𝚎 group 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚎𝚊𝚜𝚒𝚎𝚛.
 - 𝙸𝚝'𝚜 𝚢𝚘𝚞𝚛 𝚌𝚘𝚗𝚌𝚎𝚛𝚗 𝚒𝚏 𝚢𝚘𝚞 𝚜𝚙𝚊𝚖 𝚊𝚗𝚍 𝚐𝚎𝚝𝚜 𝚢𝚘𝚞𝚛 𝚊𝚌𝚌𝚘𝚞𝚗𝚝 𝚋𝚊𝚗𝚗𝚎𝚍.
@@ -95,11 +93,10 @@
 - 𝙵𝚘𝚛𝚔𝚒𝚗𝚐 𝚁𝚎𝚙𝚘 𝚒𝚜 𝚏𝚒𝚗𝚎. 𝙱𝚞𝚝 𝚒𝚏 𝚢𝚘𝚞 𝚎𝚍𝚒𝚝 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚠𝚎 𝚠𝚒𝚕𝚕 𝚗𝚘𝚝 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚊𝚗𝚢 𝚑𝚎𝚕𝚙.
 - 𝙸𝚗 𝚜𝚑𝚘𝚛𝚝, 𝙵𝚘𝚛𝚔 𝙰𝚝 𝚈𝚘𝚞𝚛 𝙾𝚠𝚗 𝚁𝚒𝚜𝚔.
 </details>
+
 <details> 
-<summary> <h4>• 𝐂𝐑𝐄𝐃𝐈𝐓'𝐒 •</h4> </summary>
+<summary>• 𝐂𝐑𝐄𝐃𝐈𝐓'𝐒 •</summary>
 
-
-## 𝐂𝐫𝐞𝐝𝐢𝐭𝐬
 
 -   ⚜️[Lonami](https://github.com/Lonami) for [Telethon](https://github.com/LonamiWebs/Telethon)
 -   ⚜️[HellBot](https://github.com/The-HellBot/HellBot)
