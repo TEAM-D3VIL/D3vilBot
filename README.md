@@ -108,9 +108,9 @@
 -   ⚜️[Team D3vil](https://t.me/D3VIL_OP_BOLTE)
 
 </details
+<details> 
+<summary> <h4>• 𝐋𝐈𝐂𝐄𝐍𝐂𝐄•</h4> </summary>
 
-###
-```
 ## 𝐋𝐈𝐂𝐄𝐍𝐂𝐄
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
@@ -126,8 +126,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
-```
-###
+</details>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&theme=tokyonight&hide=batchfile">
 
