@@ -107,11 +107,11 @@
 -   ⚜️[Shincahn](https://t.me/Shinchan7222)
 -   ⚜️[Team D3vil](https://t.me/D3VIL_OP_BOLTE)
 
-</details
+</details>
+
 <details> 
 <summary> <h4>• 𝐋𝐈𝐂𝐄𝐍𝐂𝐄•</h4> </summary>
 
-## 𝐋𝐈𝐂𝐄𝐍𝐂𝐄
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
 <h4 align="center">Copyright (C) 2021 <a href="https://github.com/TEAM-D3VIL">D3VILBOT</a></h4>
