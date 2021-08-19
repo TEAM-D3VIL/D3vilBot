@@ -26,7 +26,7 @@
 - 𝙶𝚎𝚝 𝙰𝚕𝚕 𝚃𝚑𝚎 𝙽𝚎𝚌𝚎𝚜𝚜𝚊𝚛𝚢 𝚅𝚊𝚛𝚒𝚊𝚋𝚕𝚎𝚜 𝙰𝚗𝚍 𝙳𝚎𝚙𝚕𝚘𝚢 𝚃𝚘 𝙷𝚎𝚛𝚘𝚔𝚞.
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-D3VIL/D3vilBot)
 
- <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TEAM-D3VIL/D3vilBot"> <img src="https://img.shields.io/badge/D3VILBOT Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TEAM-D3VIL/D3vilBot"> <img src="https://img.shields.io/badge/D3VILBOT Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <details>
 <summary> 𝐃𝐄𝐏𝐋𝐎𝐘 𝐋𝐎𝐂𝐀𝐋𝐋𝐘•</summary>
@@ -84,8 +84,8 @@
 </details>
 
 <details>
-<summary>• 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 •</summary>
-- 𝚆𝚎 𝚠𝚘𝚗'𝚝 𝚋𝚎 𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚒𝚋𝚕𝚎 𝚏𝚘𝚛 𝚊𝚗𝚢 𝚔𝚒𝚗𝚍 𝚘𝚏 𝚋𝚊𝚗 𝚍𝚞𝚎 𝚝𝚘 𝚝𝚑𝚒𝚜 𝚋𝚘𝚝.
+<summary>•⚠️ 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 •</summary>
+- ⚠️ 𝚆𝚎 𝚠𝚘𝚗'𝚝 𝚋𝚎 𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚒𝚋𝚕𝚎 𝚏𝚘𝚛 𝚊𝚗𝚢 𝚔𝚒𝚗𝚍 𝚘𝚏 𝚋𝚊𝚗 𝚍𝚞𝚎 𝚝𝚘 𝚝𝚑𝚒𝚜 𝚋𝚘𝚝.
 - 𝙳3𝚅𝙸𝙻𝙱𝚘𝚝 was 𝚖𝚊𝚍𝚎 𝚏𝚘𝚛 𝚏𝚞𝚗 𝚙𝚞𝚛𝚙𝚘𝚜𝚎 𝚊𝚗𝚍 𝚝𝚘 𝚖𝚊𝚔𝚎 group 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚎𝚊𝚜𝚒𝚎𝚛.
 - 𝙸𝚝'𝚜 𝚢𝚘𝚞𝚛 𝚌𝚘𝚗𝚌𝚎𝚛𝚗 𝚒𝚏 𝚢𝚘𝚞 𝚜𝚙𝚊𝚖 𝚊𝚗𝚍 𝚐𝚎𝚝𝚜 𝚢𝚘𝚞𝚛 𝚊𝚌𝚌𝚘𝚞𝚗𝚝 𝚋𝚊𝚗𝚗𝚎𝚍.
 - 𝙰𝚕𝚜𝚘, 𝙵𝚘𝚛𝚔𝚜 𝚠𝚘𝚗'𝚝 𝚋𝚎 entertained.
