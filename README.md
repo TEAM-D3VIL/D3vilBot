@@ -110,7 +110,7 @@
 </details>
 
 <details> 
- <h4>• 𝐋𝐈𝐂𝐄𝐍𝐂𝐄•</h4> 
+• 𝐋𝐈𝐂𝐄𝐍𝐂𝐄•
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
