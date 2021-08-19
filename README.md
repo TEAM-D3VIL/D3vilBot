@@ -125,5 +125,4 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=TEAM-D3VIL&show_icons=true&hide_border=true&theme=tokyonight">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEAM-D3VIL&theme=tokyonight&hide=batchfile">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&theme=tokyonight&hide=batchfile">
