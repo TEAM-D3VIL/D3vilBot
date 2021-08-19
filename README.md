@@ -109,6 +109,8 @@
 
 </details
 
+###
+```
 ## 𝐋𝐈𝐂𝐄𝐍𝐂𝐄
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
@@ -126,3 +128,5 @@ You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&theme=tokyonight&hide=batchfile">
+```
+###
