@@ -126,5 +126,4 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 </details>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&theme=tokyonight&hide=batchfile">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&layout=compact&theme=radical)](https://github.com/D3KRISH)
-
+![D3vilBot Git Stats](https://github-readme-stats.vercel.app/api?username=D3KRISH&include_all_commits=true&count_private=true&theme=highcontrast)
