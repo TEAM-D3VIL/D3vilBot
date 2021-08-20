@@ -105,6 +105,12 @@
 -   ⚜️[Team D3vil](https://t.me/D3VIL_OP_BOLTE)
 
 </details>
+<details>
+<summary> 𝐔𝐬𝐞𝐝 𝐓𝐨𝐨𝐥'𝐬 𝐎𝐟 𝐍𝐨𝐭 </summary>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&layout=compact&theme=radical)](https://github.com/D3KRISH)
+
+</details>
 
 <details> 
 <summary>• 𝐋𝐈𝐂𝐄𝐍𝐂𝐄•</summary>
@@ -124,9 +130,3 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 </details>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&theme=tokyonight&hide=batchfile">
-
-
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&layout=compact&theme=radical)](https://github.com/D3KRISH)
-
