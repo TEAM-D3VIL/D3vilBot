@@ -16,6 +16,33 @@
 ![Repo Size](https://img.shields.io/github/repo-size/TEAM-D3VIL/D3vilBot?&style=flat-square&logo=github)
 [![telegram badge](https://img.shields.io/badge/CONTACT-OWNER-30302f?style=for-the-badge&logo=telegram)](https://t.me/D3_krish)
 
+---
+
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&layout=compact&theme=radical)](https://github.com/D3KRISH)
+
+
+  <p align='middle'>
+    <code><a href="https://git-scm.com/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </a></code>
+    <code><a href="https://www.python.org/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </a></code>
+    <code><a href="https://heroku.com/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </a></code>
+    <br />
+    <code><a href="https://www.mysql.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </a></code>
+    <code><a href="https://redis.io/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"> </a></code>
+    <code><a href="https://firebase.google.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </a></code>
+    <br />
+    <code><a href="https://www.mongodb.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </a></code>
+    <code><a href="https://github.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> </a></code>
+    <code><a href="https://gitlab.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"> </a></code>
+    <br />
+    <code><a href="https://www.postgresql.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </a></code>
+    <code><a href="https://telegram.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"> </a></code>
+    <br>
+      </p>  
+
+  <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=D3KRISH&theme=midnight-purple&show_icon=true' width='500"'></p> 
+
+---
 
 ## 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 🚀
 - [![𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙶𝚛𝚘𝚞𝚙](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/D3VIL_BOT_SUPPORT)
@@ -103,32 +130,6 @@
 -   ⚜️[Shincahn](https://t.me/Shinchan7222)
 -   ⚜️[Team D3vil](https://t.me/D3VIL_OP_BOLTE)
 
-</details>
-<details>
-<summary> 𝐔𝐒𝐄𝐃 𝐓𝐎𝐎𝐋'𝐒 𝐎𝐅 𝐁𝐎𝐓 </summary>
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&layout=compact&theme=radical)](https://github.com/D3KRISH)
-
-
-  <p align='middle'>
-    <code><a href="https://git-scm.com/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </a></code>
-    <code><a href="https://www.python.org/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </a></code>
-    <code><a href="https://heroku.com/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </a></code>
-    <br />
-    <code><a href="https://www.mysql.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </a></code>
-    <code><a href="https://redis.io/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"> </a></code>
-    <code><a href="https://firebase.google.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </a></code>
-    <br />
-    <code><a href="https://www.mongodb.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </a></code>
-    <code><a href="https://github.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> </a></code>
-    <code><a href="https://gitlab.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"> </a></code>
-    <br />
-    <code><a href="https://www.postgresql.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </a></code>
-    <code><a href="https://telegram.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"> </a></code>
-    <br>
-      </p>  
-
-  <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=D3KRISH&theme=midnight-purple&show_icon=true' width='500"'></p> 
 </details>
 
 <details> 
