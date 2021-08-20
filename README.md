@@ -14,7 +14,7 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
 ![GitHub language count](https://img.shields.io/github/languages/count/TEAM-D3VIL/D3vilBot?color=Blue&label=Language&style=flat-square)
 ![Repo Size](https://img.shields.io/github/repo-size/TEAM-D3VIL/D3vilBot?&style=flat-square&logo=github)
-
+[![telegram badge](https://img.shields.io/badge/CONTACT-OWNER-30302f?style=for-the-badge&logo=telegram)](https://t.me/D3_krish)
 
 
 ## 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 🚀
