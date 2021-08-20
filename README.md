@@ -32,11 +32,13 @@
 
 - 𝙾𝚙𝚎𝚗 𝚁𝚎𝚙𝚕 𝙻𝚒𝚗𝚔.
 - 𝚈𝚘𝚞𝚛𝚢 D3𝚟𝚒𝚕𝙱𝚘𝚝 𝚂𝚎𝚜𝚜𝚒𝚘𝚗 𝚆𝚒𝚕𝚕 𝚋𝚎 𝚜𝚊𝚟𝚎𝚍 𝚒𝚗 𝚢𝚘𝚞𝚛 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚂𝚊𝚟𝚎𝚍 𝙼𝚎𝚜𝚜𝚊𝚐𝚎.
+
 - [![REPL](https://repl.it/badge/github/D3KRISH/D3vilUserbot)](https://replit.com/@D3krish/D3VILBOTSTRINGSESSION#main.py)
+
 `bash start.sh`
 
 ## • 𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋 •
-- 𝙾𝚙𝚎𝚗 𝚝𝚑𝚎 𝚝𝚎𝚛𝚖𝚒𝚗𝚊𝚕.$𝙿𝚊𝚜𝚝𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎.
+- 𝙾𝚙𝚎𝚗 𝚝𝚑𝚎 𝚝𝚎𝚛𝚖𝚒𝚗𝚊𝚕.$ 𝙿𝚊𝚜𝚝𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎 👇.
 
 `pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/D3KRISH/D3vilUserbot/master/d3vil_string.py && python3 d3vil_string.py`
 - Your D3vilBot Session Will be saved in your Telegram Saved Message.
