@@ -89,9 +89,10 @@
 - 𝙵𝚘𝚛𝚔𝚒𝚗𝚐 𝚁𝚎𝚙𝚘 𝚒𝚜 𝚏𝚒𝚗𝚎. 𝙱𝚞𝚝 𝚒𝚏 𝚢𝚘𝚞 𝚎𝚍𝚒𝚝 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚠𝚎 𝚠𝚒𝚕𝚕 𝚗𝚘𝚝 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚊𝚗𝚢 𝚑𝚎𝚕𝚙.
 - 𝙸𝚗 𝚜𝚑𝚘𝚛𝚝, 𝙵𝚘𝚛𝚔 𝙰𝚝 𝚈𝚘𝚞𝚛 𝙾𝚠𝚗 𝚁𝚒𝚜𝚔.
 </details>
-
+<p align="center">
 <details> 
- <p align="center"><summary>• 𝐂𝐑𝐄𝐃𝐈𝐓'𝐒 •</summary></p>
+<summary>• 𝐂𝐑𝐄𝐃𝐈𝐓'𝐒 •</summary>
+</p>
 
 
 -   ⚜️[Lonami](https://github.com/Lonami) for [Telethon](https://github.com/LonamiWebs/Telethon)
