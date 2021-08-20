@@ -80,7 +80,7 @@
 </details>
 
 <details>
-<summary>•⚠️ 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 •</summary>
+<summary>⚠️ 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 •</summary>
 - ⚠️ 𝚆𝚎 𝚠𝚘𝚗'𝚝 𝚋𝚎 𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚒𝚋𝚕𝚎 𝚏𝚘𝚛 𝚊𝚗𝚢 𝚔𝚒𝚗𝚍 𝚘𝚏 𝚋𝚊𝚗 𝚍𝚞𝚎 𝚝𝚘 𝚝𝚑𝚒𝚜 𝚋𝚘𝚝.
 - 𝙳3𝚅𝙸𝙻𝙱𝚘𝚝 was 𝚖𝚊𝚍𝚎 𝚏𝚘𝚛 𝚏𝚞𝚗 𝚙𝚞𝚛𝚙𝚘𝚜𝚎 𝚊𝚗𝚍 𝚝𝚘 𝚖𝚊𝚔𝚎 group 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚎𝚊𝚜𝚒𝚎𝚛.
 - 𝙸𝚝'𝚜 𝚢𝚘𝚞𝚛 𝚌𝚘𝚗𝚌𝚎𝚛𝚗 𝚒𝚏 𝚢𝚘𝚞 𝚜𝚙𝚊𝚖 𝚊𝚗𝚍 𝚐𝚎𝚝𝚜 𝚢𝚘𝚞𝚛 𝚊𝚌𝚌𝚘𝚞𝚗𝚝 𝚋𝚊𝚗𝚗𝚎𝚍.
@@ -102,7 +102,7 @@
 
 </details>
 <details>
-<summary> 𝐔𝐬𝐞𝐝 𝐓𝐨𝐨𝐥'𝐬 𝐎𝐟 𝐍𝐨𝐭 </summary>
+<summary> 𝐔𝐒𝐄𝐃 𝐓𝐎𝐎𝐋'𝐒 𝐎𝐅 𝐁𝐎𝐓 </summary>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&layout=compact&theme=radical)](https://github.com/D3KRISH)
 
