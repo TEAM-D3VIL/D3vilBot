@@ -91,7 +91,7 @@
 </details>
 
 <details> 
-<summary>• 𝐂𝐑𝐄𝐃𝐈𝐓'𝐒 •</summary>
+ <p align="center"><summary>• 𝐂𝐑𝐄𝐃𝐈𝐓'𝐒 •</summary></p>
 
 
 -   ⚜️[Lonami](https://github.com/Lonami) for [Telethon](https://github.com/LonamiWebs/Telethon)
