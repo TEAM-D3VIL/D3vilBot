@@ -19,7 +19,7 @@
 ---
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&layout=compact&theme=radical)](https://github.com/TEAM-D3VIL)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEAM-D3VIL&layout=compact&theme=radical)](https://github.com/TEAM-D3VIL)
 
 
   <p align='middle'>
@@ -139,7 +139,7 @@
 
 <h4 align="center">Copyright (C) 2021 <a href="https://github.com/TEAM-D3VIL">D3VILBOT</a></h4>
 
-Project [D3vilBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
+Project [D3vilBot](https://github.com/TEAM-D3VIL/D3vilBot) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
