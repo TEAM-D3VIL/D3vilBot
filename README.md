@@ -127,6 +127,8 @@
     <code><a href="https://telegram.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"> </a></code>
     <br>
       </p>  
+
+  <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=D3KRISH&theme=midnight-purple&show_icon=true' width='500"'></p> 
 </details>
 
 <details> 
