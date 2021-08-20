@@ -20,7 +20,10 @@
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=D3KRISH&theme=dracula&count_private=true"></div>
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEAM-D3VIL/D3vilBot&layout=compact&theme=radical)](https://github.com/TEAM-D3VIL/D3vilBot)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&layout=compact&theme=radical)](https://github.com/TEAM-D3VIL/D3vilBot)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/count/TEAM-D3VIL/D3vilBot&layout=compact&theme=radical)](https://github.com/TEAM-D3VIL/D3vilBot)
+
 
 <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=D3KRISH&theme=midnight-purple&show_icon=true' width='500"'></p> 
 
