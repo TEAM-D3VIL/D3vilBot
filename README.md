@@ -14,7 +14,6 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
 ![GitHub language count](https://img.shields.io/github/languages/count/TEAM-D3VIL/D3vilBot?color=Blue&label=Language&style=flat-square)
 ![Repo Size](https://img.shields.io/github/repo-size/TEAM-D3VIL/D3vilBot?&style=flat-square&logo=github)
-[![𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙶𝚛𝚘𝚞𝚙](https://img.shields.io/badge/Creator-of-Userbot-brightgreen)](https://t.me/D3_krish)
 
 
 
@@ -27,6 +26,22 @@
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-D3VIL/D3vilBot)
 
  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TEAM-D3VIL/D3vilBot"> <img src="https://img.shields.io/badge/D3VILBOT Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+----
+### 𝐃3𝐕𝐈𝐋𝐁𝐎𝐓_𝐒𝐄𝐒𝐒𝐈𝐎𝐍
+
+- 𝙾𝚙𝚎𝚗 𝚁𝚎𝚙𝚕 𝙻𝚒𝚗𝚔.
+- 𝚈𝚘𝚞𝚛𝚢 D3𝚟𝚒𝚕𝙱𝚘𝚝 𝚂𝚎𝚜𝚜𝚒𝚘𝚗 𝚆𝚒𝚕𝚕 𝚋𝚎 𝚜𝚊𝚟𝚎𝚍 𝚒𝚗 𝚢𝚘𝚞𝚛 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚂𝚊𝚟𝚎𝚍 𝙼𝚎𝚜𝚜𝚊𝚐𝚎.
+- [![REPL](https://repl.it/badge/github/D3KRISH/D3vilUserbot)](https://replit.com/@D3krish/D3VILBOTSTRINGSESSION#main.py)
+`bash start.sh`
+
+## • 𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋 •
+- 𝙾𝚙𝚎𝚗 𝚝𝚑𝚎 𝚝𝚎𝚛𝚖𝚒𝚗𝚊𝚕.$𝙿𝚊𝚜𝚝𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎.
+
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/D3KRISH/D3vilUserbot/master/d3vil_string.py && python3 d3vil_string.py`
+- Your D3vilBot Session Will be saved in your Telegram Saved Message.
+
+----
 
 <details>
 <summary> 𝐃𝐄𝐏𝐋𝐎𝐘 𝐋𝐎𝐂𝐀𝐋𝐋𝐘•</summary>
@@ -53,25 +68,6 @@
 - 𝙲𝚛𝚎𝚊𝚝𝚎 config.py 𝚘𝚛 𝚛𝚎𝚗𝚊𝚖𝚎 ex_config.py 𝚝𝚘 config.py. 𝙵𝚒𝚕𝚕 𝙰𝚕𝚕 𝚃𝚑𝚎 𝚁𝚎𝚚𝚞𝚒𝚛𝚎𝚍 𝚅𝚊𝚛𝚒𝚊𝚋𝚕𝚎𝚜.
 - 𝙵𝚒𝚗𝚊𝚕𝚕𝚢 𝚂𝚝𝚊𝚛𝚝 D3𝚅𝙸𝙻𝙱𝙾𝚃 𝙱𝚢
 </details>
-
-### 𝐃3𝐕𝐈𝐋𝐁𝐎𝐓_𝐒𝐄𝐒𝐒𝐈𝐎𝐍
-
-- 𝙾𝚙𝚎𝚗 𝚁𝚎𝚙𝚕 𝙻𝚒𝚗𝚔.
-- 𝙲𝚕𝚒𝚌𝚔 𝚘𝚗 𝙶𝚛𝚎𝚎𝚗 𝙿𝚕𝚊𝚢 𝙱𝚞𝚝𝚝𝚘𝚗.
-- 𝚈𝚘𝚞𝚛𝚢 D3𝚟𝚒𝚕𝙱𝚘𝚝 𝚂𝚎𝚜𝚜𝚒𝚘𝚗 𝚆𝚒𝚕𝚕 𝚋𝚎 𝚜𝚊𝚟𝚎𝚍 𝚒𝚗 𝚢𝚘𝚞𝚛 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚂𝚊𝚟𝚎𝚍 𝙼𝚎𝚜𝚜𝚊𝚐𝚎.
-- [![REPL](https://repl.it/badge/github/D3KRISH/D3vilUserbot)](https://replit.com/@D3krish/D3VILBOTSTRINGSESSION#main.py)
-`bash start.sh`
-
-## • 𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋 •
-
-### 𝐓𝐞𝐫𝐦𝐢𝐧𝐚𝐥
-- 𝙾𝚙𝚎𝚗 𝚝𝚑𝚎 𝚝𝚎𝚛𝚖𝚒𝚗𝚊𝚕.
-- 𝙿𝚊𝚜𝚝𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎.
-
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/D3KRISH/D3vilUserbot/master/d3vil_string.py && python3 d3vil_string.py`
-- Your D3vilBot Session Will be saved in your Telegram Saved Message.
-</details>
-
 <details>
 <summary>• 𝐕𝐀𝐑𝐈𝐀𝐁𝐋𝐄 •</summary>
 
