@@ -14,8 +14,6 @@
 ![Branch](https://img.shields.io/badge/Branch-Master-orange)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
 ![Repo Size](https://img.shields.io/github/repo-size/TEAM-D3VIL/D3vilBot?&style=flat-square&logo=github)
-[![telegram badge](https://img.shields.io/badge/CONTACT-OWNER-30302f?style=for-the-badge&logo=telegram)](https://t.me/D3_krish)
-
 <p align='middle'>
     <code><a href="https://git-scm.com/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </a></code>
     <code><a href="https://www.python.org/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </a></code>
@@ -43,7 +41,8 @@
 ## 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 🚀
 - [![𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙶𝚛𝚘𝚞𝚙](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/D3VIL_BOT_SUPPORT)
 - [![𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙲𝚑𝚊𝚗𝚗𝚎𝚕](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/D3VIL_SUPPORT)
-
+- [![BOT OWNER](https://img.shields.io/badge/CONTACT-OWNER-brightgreen)](https://t.me/D3_krish)
+ 
 ## 🚀 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐨 𝐇𝐞𝐫𝐨𝐤𝐮 
 - 𝙶𝚎𝚝 𝙰𝚕𝚕 𝚃𝚑𝚎 𝙽𝚎𝚌𝚎𝚜𝚜𝚊𝚛𝚢 𝚅𝚊𝚛𝚒𝚊𝚋𝚕𝚎𝚜 𝙰𝚗𝚍 𝙳𝚎𝚙𝚕𝚘𝚢 𝚃𝚘 𝙷𝚎𝚛𝚘𝚔𝚞.
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-D3VIL/D3vilBot)
