@@ -6,29 +6,18 @@
   <img src="https://telegra.ph/file/883f837877a4804827cac.jpg" alt=D3KRISH">
 </p>
 
--------
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=D3KRISH&theme=dracula&count_private=true"></div>
+
+---
 
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
 ![Branch](https://img.shields.io/badge/Branch-Master-orange)
 ![GitHub language count](https://img.shields.io/github/languages/count/TEAM-D3VIL/D3vilBot?color=Pink&label=Language&style=flat-square)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
-![GitHub language count](https://img.shields.io/github/languages/count/TEAM-D3VIL/D3vilBot?color=Blue&label=Language&style=flat-square)
 ![Repo Size](https://img.shields.io/github/repo-size/TEAM-D3VIL/D3vilBot?&style=flat-square&logo=github)
 [![telegram badge](https://img.shields.io/badge/CONTACT-OWNER-30302f?style=for-the-badge&logo=telegram)](https://t.me/D3_krish)
 
----
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=D3KRISH&theme=dracula&count_private=true"></div>
-
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&layout=compact&theme=radical)](https://github.com/TEAM-D3VIL/D3vilBot)
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/count/TEAM-D3VIL/D3vilBot&layout=compact&theme=radical)](https://github.com/TEAM-D3VIL/D3vilBot)
-
-
-<p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=D3KRISH&theme=midnight-purple&show_icon=true' width='500"'></p> 
-
-
-  <p align='middle'>
+<p align='middle'>
     <code><a href="https://git-scm.com/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </a></code>
     <code><a href="https://www.python.org/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </a></code>
     <code><a href="https://heroku.com/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </a></code>
@@ -45,6 +34,10 @@
     <code><a href="https://telegram.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"> </a></code>
     <br>
       </p>  
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&layout=compact&theme=radical)](https://github.com/TEAM-D3VIL/D3vilBot)
+
+<p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=D3KRISH&theme=midnight-purple&show_icon=true' width='500"'></p> 
 
 ---
 
