@@ -17,9 +17,12 @@
 [![telegram badge](https://img.shields.io/badge/CONTACT-OWNER-30302f?style=for-the-badge&logo=telegram)](https://t.me/D3_krish)
 
 ---
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=D3KRISH&theme=dracula&count_private=true"></div>
 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3KRISH&layout=compact&theme=radical)](https://github.com/D3KRISH)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEAM-D3VIL/D3vilBot&layout=compact&theme=radical)](https://github.com/TEAM-D3VIL/D3vilBot)
+
+<p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=D3KRISH&theme=midnight-purple&show_icon=true' width='500"'></p> 
 
 
   <p align='middle'>
@@ -39,8 +42,6 @@
     <code><a href="https://telegram.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"> </a></code>
     <br>
       </p>  
-
-  <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=D3KRISH&theme=midnight-purple&show_icon=true' width='500"'></p> 
 
 ---
 
