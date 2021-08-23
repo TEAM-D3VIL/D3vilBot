@@ -21,7 +21,7 @@
     },
     "YOUR_NAME": {
       "description": "Fill Your Telegram Name. Default Value is 𝔡3𝔳𝔦𝔩",
-      "value": "『ȶꭉᶏꬺ ɖ3ⱱᶖȴ』",
+      "value": "『ɖ3ⱱᶖȴ』",
       "required": false
     },
     "ALIVE_MSG": {
