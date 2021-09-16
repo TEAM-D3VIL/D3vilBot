@@ -39,7 +39,7 @@ start_bot () {
     echo "  • Starting D3vilBot •  "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
-    python3 -m d3vilbot
+    python3 -m dark_cobra
 }
 
 start_bot
