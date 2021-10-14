@@ -118,7 +118,12 @@
       "description": "Userid of user to grant sudo access. Add multiple sudo users by giving a space between userids",
       "value": "",
       "required": false
-    }
+    },
+    "ASSISTANT":{
+    "description": "Default ON. Your Assistant is on if you want to off Then Remove Value.",
+    "value": "ON",
+    "required": false
+    }   
   },
   "addons": [{
     "plan": "heroku-postgresql",
