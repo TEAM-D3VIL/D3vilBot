@@ -38,7 +38,7 @@
 
 ---
 
-## 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 🚀
+## TELEGRAM  🚀
 - [![𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙶𝚛𝚘𝚞𝚙](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/D3VIL_BOT_SUPPORT)
 - [![𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙲𝚑𝚊𝚗𝚗𝚎𝚕](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/D3VIL_SUPPORT)
 - [![BOT OWNER](https://img.shields.io/badge/CONTACT-OWNER-brightgreen)](https://t.me/D3_krish)
