@@ -2,6 +2,30 @@
   <b>ᏖᏂᏋ D3ᏉᎥᏝᏰᎧᏖ</b>
 </h1>
 
+	<body>
+
+	<div id="fullpage">
+
+		<!-- start home -->
+		<div id="home" class="section">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-2"></div>
+					<div class="col-md-8 wow fadeIn" data-wow-delay="0.9s">
+						<h3>“This world is cruel,</h3>
+						<h3>Yet beautiful.”</h3>
+						<h1>D3ᴠɪʟ Kʀɪsʜ</h1>
+						<h2 class="rotate">OTAKU, PYTHON DEVELOPER, ZEROTWO ❤️</h2>
+						<p>A rising Python developer. Still learning and improving gradually.</p>
+						<a href="#work" class="btn btn-default smoothScroll wow fadeInUp" data-wow-delay="1s">About Me</a>
+					</div>
+					<div class="col-md-2"></div>
+				</div>
+			</div>
+		</div>
+
+
+
 
 You can use the [editor on GitHub](https://github.com/TEAM-D3VIL/D3vilBot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
