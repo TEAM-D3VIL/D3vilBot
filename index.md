@@ -40,7 +40,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ## • 𝐓𝐄𝐑𝐌𝐈𝐍𝐀𝐋 •
 - 𝙾𝚙𝚎𝚗 𝚝𝚑𝚎 𝚝𝚎𝚛𝚖𝚒𝚗𝚊𝚕.$ 𝙿𝚊𝚜𝚝𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎 👇.
 
+```
 `pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/D3KRISH/D3vilUserbot/master/d3vil_string.py && python3 d3vil_string.py`
+```
 - Your D3vilBot Session Will be saved in your Telegram Saved Message.
 
 ----
