@@ -80,8 +80,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - `BOT_USERNAME`  =  𝙶𝚎𝚝 𝚝𝚑𝚎 𝚞𝚜𝚎𝚛𝚗𝚊𝚖𝚎 𝚘𝚏 𝚝𝚑𝚊𝚝 𝙱𝚘𝚝 𝚖𝚊𝚍𝚎 𝚏𝚛𝚘𝚖 <a href="https://t.me/botfather">BOTFATHER</a>
 </details>
 
-````
 
+````
 <⚠️ 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑 
 - ⚠️ 𝚆𝚎 𝚠𝚘𝚗'𝚝 𝚋𝚎 𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚒𝚋𝚕𝚎 𝚏𝚘𝚛 𝚊𝚗𝚢 𝚔𝚒𝚗𝚍 𝚘𝚏 𝚋𝚊𝚗 𝚍𝚞𝚎 𝚝𝚘 𝚝𝚑𝚒𝚜 𝚋𝚘𝚝.
 - 𝙳3𝚅𝙸𝙻𝙱𝚘𝚝 was 𝚖𝚊𝚍𝚎 𝚏𝚘𝚛 𝚏𝚞𝚗 𝚙𝚞𝚛𝚙𝚘𝚜𝚎 𝚊𝚗𝚍 𝚝𝚘 𝚖𝚊𝚔𝚎 group 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 𝚎𝚊𝚜𝚒𝚎𝚛.
@@ -91,6 +91,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - 𝙵𝚘𝚛𝚔𝚒𝚗𝚐 𝚁𝚎𝚙𝚘 𝚒𝚜 𝚏𝚒𝚗𝚎. 𝙱𝚞𝚝 𝚒𝚏 𝚢𝚘𝚞 𝚎𝚍𝚒𝚝 𝚜𝚘𝚖𝚎𝚝𝚑𝚒𝚗𝚐 𝚠𝚎 𝚠𝚒𝚕𝚕 𝚗𝚘𝚝 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚊𝚗𝚢 𝚑𝚎𝚕𝚙.
 - 𝙸𝚗 𝚜𝚑𝚘𝚛𝚝, 𝙵𝚘𝚛𝚔 𝙰𝚝 𝚈𝚘𝚞𝚛 𝙾𝚠𝚗 𝚁𝚒𝚜𝚔
 ```
+___________________________________________________________________________________________________
 
 <details> 
 <summary>• 𝐋𝐈𝐂𝐄𝐍𝐂𝐄•</summary>
@@ -109,14 +110,3 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 </details>
-
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TEAM-D3VIL/D3vilBot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://t.me/D3VILBOT_SUPPORT) or [contact support](https://t.me/D3_krish) and we’ll help you sort it out.
