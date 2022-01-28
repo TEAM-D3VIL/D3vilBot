@@ -69,6 +69,23 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - 𝙵𝚒𝚗𝚊𝚕𝚕𝚢 𝚂𝚝𝚊𝚛𝚝 D3𝚅𝙸𝙻𝙱𝙾𝚃 𝙱𝚢
 ```
 
+<details> 
+<summary>• 𝐋𝐈𝐂𝐄𝐍𝐂𝐄•</summary>
+
+<h4 align="center">Copyright (C) 2021 <a href="https://github.com/TEAM-D3VIL">D3VILBOT</a></h4>
+
+Project [D3vilBot](https://github.com/TEAM-D3VIL/D3vilBot) is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+</details>
+
 <details>
 <summary>• 𝐕𝐀𝐑𝐈𝐀𝐁𝐋𝐄 •</summary>
 
@@ -93,20 +110,3 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```
 ___________________________________________________________________________________________________
 
-<details> 
-<summary>• 𝐋𝐈𝐂𝐄𝐍𝐂𝐄•</summary>
-
-
-<h4 align="center">Copyright (C) 2021 <a href="https://github.com/TEAM-D3VIL">D3VILBOT</a></h4>
-
-Project [D3vilBot](https://github.com/TEAM-D3VIL/D3vilBot) is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-You should have received a copy of the GNU General Public License
-along with this program. If not, see <https://www.gnu.org/licenses/>.
-</details>
