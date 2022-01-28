@@ -1,30 +1,15 @@
-## Welcome to GitHub Pages
+<h1 align="center">
+  <b>ᏖᏂᏋ D3ᏉᎥᏝᏰᎧᏖ</b>
+</h1>
+
+<p align="center">
+  <img src="https://telegra.ph/file/883f837877a4804827cac.jpg" alt=D3KRISH">
+</p>
 
 You can use the [editor on GitHub](https://github.com/TEAM-D3VIL/D3vilBot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-	<body>
-
-	<div id="fullpage">
-
-		<!-- start home -->
-		<div id="home" class="section">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-2"></div>
-					<div class="col-md-8 wow fadeIn" data-wow-delay="0.9s">
-						<h3>“This world is cruel,</h3>
-						<h3>Yet beautiful.”</h3>
-						<h1>D3ᴠɪʟ Kʀɪsʜ</h1>
-						<h2 class="rotate">OTAKU, PYTHON DEVELOPER, ZEROTWO ❤️</h2>
-						<p>A rising Python developer. Still learning and improving gradually.</p>
-						<a href="#work" class="btn btn-default smoothScroll wow fadeInUp" data-wow-delay="1s">About Me</a>
-					</div>
-					<div class="col-md-2"></div>
-				</div>
-			</div>
-		</div>
-		<!-- end home -->
+	
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -57,4 +42,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://t.me/D3VILBOT_SUPPORT) or [contact support](https://t.me/D3_krish) and we’ll help you sort it out.
