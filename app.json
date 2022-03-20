@@ -33,8 +33,6 @@
       "description": "Your command handler. Default is ' . ' (dot).",
       "value": "."
     },
-
-    },
     "PM_PERMIT": {
       "description": "Fill DISABLE to turn off pm permit.",
       "value": "ENABLE"
