@@ -19,29 +19,9 @@
       "description": "Setting this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
-    "YOUR_NAME": {
-      "description": "Fill Your Telegram Name. Default Value is 𝔡3𝔳𝔦𝔩",
-      "value": "『ȶꭉᶏꬺ ɖ3ⱱᶖȴ』",
-      "required": false
-    },
-    "ALIVE_MSG": {
-      "description": "Your Custom Alive Message to show on Alive.",
-      "value": "",
-      "required": false
-    },
-    "ALIVE_PIC": {
-      "description": "Paste the telegraph link of a video/gif/pic to show on Alive.",
-      "value": "",
-      "required": false
-    },
     "ABUSE": {
       "description": "Leave it blank if you dont want Profanity in D3vilBot. Else Fill ON.",
       "value": "ON",
-      "required": false
-    },
-    "PMPERMIT_PIC": {
-      "description": "Paste the Telegraph link to show in pm permit message.",
-      "value": "",
       "required": false
     },
     "PM_LOG_ID": {
@@ -53,13 +33,7 @@
       "description": "Your command handler. Default is ' . ' (dot).",
       "value": "."
     },
-    "EMOJI_IN_HELP": {
-      "description": "A emoji to display in help command",
-      "value": "✘"
-    },
-    "BUTTONS_IN_HELP": {
-      "description": "No.of buttons to display in help menu.",
-      "value": "7"
+
     },
     "PM_PERMIT": {
       "description": "Fill DISABLE to turn off pm permit.",
