@@ -91,11 +91,6 @@
     "description": "Default ON. Your Assistant is on if you want to off Then Remove Value.",
     "value": "ON",
     "required": false
-    },
-    "EXTRA_REPO":{
-    "description": "Default True. Your ADDONS ia add if you want remove do off then Remove value.",   
-    "value": "True",
-    "required": false
     }
   },
   "addons": [{
