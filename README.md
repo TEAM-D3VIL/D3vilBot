@@ -43,12 +43,19 @@
 - [![𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝙲𝚑𝚊𝚗𝚗𝚎𝚕](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/D3VIL_SUPPORT)
 - [![BOT OWNER](https://img.shields.io/badge/CONTACT-OWNER-brightgreen)](https://t.me/D3_krish)
  
+## DEPLOY FROM TELEGRAM BOT
+- [![Deploy Bot From Telegram](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://telegram.dog/XTZ_HerokuBot?start=VEVBTS1EM1ZJTC9EM3ZpbEJvdCBtYXN0ZXI)
+
+```
+👆👆IF Heroku is not giving access to deploy userbot then you use this bot to deploy our userbot👆
+
+```
+
 ## 🚀 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐨 𝐇𝐞𝐫𝐨𝐤𝐮 
 - 𝙶𝚎𝚝 𝙰𝚕𝚕 𝚃𝚑𝚎 𝙽𝚎𝚌𝚎𝚜𝚜𝚊𝚛𝚢 𝚅𝚊𝚛𝚒𝚊𝚋𝚕𝚎𝚜 𝙰𝚗𝚍 𝙳𝚎𝚙𝚕𝚘𝚢 𝚃𝚘 𝙷𝚎𝚛𝚘𝚔𝚞.
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAM-D3VIL/D3vilBot)
 
  <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TEAM-D3VIL/D3vilBot"> <img src="https://img.shields.io/badge/D3VILBOT Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
 ----
 ### 𝐃3𝐕𝐈𝐋𝐁𝐎𝐓_𝐒𝐄𝐒𝐒𝐈𝐎𝐍
 
