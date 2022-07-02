@@ -47,10 +47,13 @@
 - [![Deploy Bot From Telegram](https://img.shields.io/badge/DeployFROMTelegram-Bot-brightred)](https://telegram.dog/XTZ_HerokuBot?start=VEVBTS1EM1ZJTC9EM3ZpbEJvdCBtYXN0ZXI)
 
 ```
+
 👆👆IF Heroku is not giving access to deploy userbot 
 then you use this bot to deploy our userbot👆
 
 ```
+# Tutorial 
+- Full Tutorial - [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-red)](https://youtu.be/PHJ3O34Pvc0)
 
 
 ## 🚀 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐨 𝐇𝐞𝐫𝐨𝐤𝐮 
