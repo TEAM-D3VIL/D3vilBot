@@ -44,7 +44,7 @@
 - [![BOT OWNER](https://img.shields.io/badge/CONTACT-OWNER-brightgreen)](https://t.me/D3_krish)
  
 ## DEPLOY FROM TELEGRAM BOT
-- [![Deploy Bot From Telegram](https://img.shields.io/badge/Telegram-Bot-brightgreen)](https://heroku.com/deploy?template=https://telegram.dog/XTZ_HerokuBot?start=VEVBTS1EM1ZJTC9EM3ZpbEJvdCBtYXN0ZXI)
+- [![Deploy Bot From Telegram](https://img.shields.io/badge/Telegram-Bot-brightred)](https://telegram.dog/XTZ_HerokuBot?start=VEVBTS1EM1ZJTC9EM3ZpbEJvdCBtYXN0ZXI)
 
 ```
 👆👆IF Heroku is not giving access to deploy userbot 
