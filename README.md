@@ -32,8 +32,6 @@
     <br>
       </p>  
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TEAM-D3VIL&layout=compact&theme=radical)](https://github.com/TEAM-D3VIL/D3vilBot)
-
 <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=D3KRISH&theme=midnight-purple&show_icon=true' width='500"'></p> 
 
 ---
