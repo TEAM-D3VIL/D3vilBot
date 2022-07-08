@@ -18,7 +18,7 @@
       "value": "ANYTHING"
     },
     "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in HellBot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in D3vilBot. Else Fill ON.",
       "value": "ON",
       "required": false
     },
