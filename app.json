@@ -1,8 +1,8 @@
 {
   "name": "𝔇3vιℓвσт",
-  "description": "𝔇3𝔳𝔦𝔩𝔅𝔬𝔱 is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.this userbot made by ©Team D3vil & @D3_krish",
+  "description": "one of the Best UserBot for Telegram. Known for its Smoothness, Design. \n Made by ©Team D3vil & @D3_krish.",
   "logo": "https://telegra.ph/file/ad8abbfbcb2f93f91b10f.jpg ",
-    "keywords": [
+  "keywords": [
     "telegram",
     "userbot",
     "plugin",
@@ -12,30 +12,19 @@
     "productivity"
   ],
   "repository": "https://github.com/TEAM-D3VIL/D3vilBot/",
-  "website": "https://github.com/D3KRISH/",
-  "success_url": "https://t.me/D3VIL_SUPPORT",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
     "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in D3vilBot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in HellBot. Else Fill ON.",
       "value": "ON",
-      "required": false
-    },
-    "PM_LOG_ID": {
-      "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @ShowJsonBot",
-      "value": "",
       "required": false
     },
     "HANDLER": {
       "description": "Your command handler. Default is ' . ' (dot).",
       "value": "."
-    },
-    "PM_PERMIT": {
-      "description": "Fill DISABLE to turn off pm permit.",
-      "value": "ENABLE"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org",
@@ -49,48 +38,21 @@
       "description": "Get this value by using repl or termux. Refer to Repo for more info.",
       "value": ""
     },
+    "ASSISTANT":{
+      "description": " Default ON Don't change value",
+      "value": "ON"
+    },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API. Required for updater to work.",
-      "value": "",
-      "required": true
+      "value": ""
     },
     "HEROKU_APP_NAME": {
       "description": "The Value of App Name you filled in right on top. Required for updater to work.",
-      "value": "",
-      "required": true
+      "value": ""
     },
     "BOT_TOKEN": {
       "description": "Make a bot from @BotFather and paste the bot token here.",
       "value": ""
-    },
-    "TAG_LOGGER": {
-      "description": "Make a group and add rose. Do /id and paste the chat id here.",
-      "value": "",
-      "required": false
-    },
-    "BOT_USERNAME": {
-      "description": "Make a bot from @BotFather and paste the username here.",
-      "value": ""
-    },
-    "YOUR_CHANNEL": {
-      "description": "Fill your channel username(without @) to get this displayed on your D3VIL Alive.",
-      "value": "",
-      "required": false
-    },
-    "YOUR_GROUP": {
-      "description": "Fill your group username(without @) to get this displayed on your D3VIL Alive.",
-      "value": "",
-      "required": false
-    },
-    "SUDO_USERS": {
-      "description": "Userid of user to grant sudo access. Add multiple sudo users by giving a space between userids",
-      "value": "",
-      "required": false
-    },
-    "ASSISTANT":{
-    "description": "Default ON. Your Assistant is on if you want to off Then Remove Value.",
-    "value": "ON",
-    "required": false
     }
   },
   "addons": [{
