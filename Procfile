@@ -1,1 +1,1 @@
-worker: bash D3vilbot
+worker: bash D3VIL
