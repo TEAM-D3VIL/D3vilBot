@@ -61,5 +61,5 @@ wheel
 
 git+https://github.com/D3KRISH/py-googletrans
 git+https://github.com/D3KRISH/Wikipedia
-git+https://github.com/D3KRISH/yt-fork
-git+https://github.com/D3KRISH/yt-search-python
+git+https://github.com/D3KRISH/youtube-dl
+git+https://github.com/D3KRISH/youtube-search-python
