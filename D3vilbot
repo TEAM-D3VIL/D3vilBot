@@ -1,45 +1,59 @@
 #!/bin/bash
 
 
-_repolink () {
-    local regex
-    regex='(https?)://github.com/.+/.+'
-    if [[ $D3VIL_REPO == "D3vilBot" ]]
-    then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0QzS1JJU0gvRDN2aWxVc2VyYm90L2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
-    elif [[ $D3VIL_REPO == "D3vilbot" ]]
-    then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0QzS1JJU0gvRDN2aWxVc2VyYm90L2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
-    elif [[ $D3VIL_REPO =~ $regex ]]
-    then
-        if [[ $D3VIL_REPO_BRANCH ]]
-        then
-            echo "${D3VIL_REPO}/archive/${D3VIL_REPO_BRANCH}.zip"
-        else
-            echo "${D3VIL_REPO}/archive/master.zip"
-        fi
-    else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL0QzS1JJU0gvRDN2aWxVc2VyYm90L2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
-    fi
+_python_() {
+    python3${pVer%.*} -c "$1"
 }
 
+_D3VILBOT_MAIN() {
+    $(_python_ 'from git import Repo
+import sys
+_UPSTREAM_ = "https://github.com/TEAM-D3VIL/D3vilBot"
+_BRANCH_ = "master"
+repo = Repo.init()
+origin = repo.create_remote("temponame", _UPSTREAM_)
+origin.fetch()
+repo.create_head(_BRANCH_, origin.refs[_BRANCH_])
+repo.heads[_BRANCH_].checkout(True) ')
+}
 
-start_bot () {
-    local zippath
-    zippath="myd3vilbot.zip"
-    echo "  Downloading source code ..."
-    wget -q $(_repolink) -O "$zippath"
-    echo "  Unpacking Data ..."
-    D3VILPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
-    unzip -qq "$zippath"
-    echo "  Processing Codes..."
-    rm -rf "$zippath"
-    sleep 5
+_d3vil_repo () {
+    local hrepo
+    hrepo=`echo "aHR0cHM6Ly9naXRodWIuY29tL0QzS1JJU0gvRDN2aWxVc2VyYm90" | base64 -d`
+    echo "$rlink"
+}
+
+_d3vil_zip () {
+    echo "aHR0cHM6Ly9naXRodWIuY29tL0QzS1JJU0gvRDN2aWxVc2VyYm90L2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
+}
+
+_D3VILBOT_PLUG() {
+    local hrepo=$(_d3vil_repo)
+    $(_python_ 'from git import Repo
+import sys
+_UPSTREAM_ = "'$hrepo'"
+_BRANCH_ = "master"
+repo = Repo.init()
+origin = repo.create_remote("temponame", _UPSTREAM_)
+origin.fetch()
+repo.create_head(_BRANCH_, origin.refs[_BRANCH_])
+repo.heads[_BRANCH_].checkout(True) ')
+}
+
+_starter () {
+    local d3villpath
+    d3vilpath="d3vilbot.zip"
+    echo "••• DOWNLOADING D3VILBOT •••"
+    wget -q $(_d3vil_zip) -O "$d3vilpath"
+    D3VILPATH=$(zipinfo -1 "$d3vilpath" | grep -v "/.");
+    unzip -qq "$d3villpath"
+    rm -rf "$d3vilpath"
+    # _D3VILBOT_MAIN
     cd $D3VILPATH
-    echo "  • Starting D3vilBot •  "
-
+    # _D3VILBOT_PLUG
     python3 ../setup/updater.py ../requirements.txt requirements.txt
+    echo "••• STARTING D3VILBOT •••"
     python3 -m d3vilbot
 }
 
-start_bot
+_starter
