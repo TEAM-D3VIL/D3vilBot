@@ -42,7 +42,7 @@ repo.heads[_BRANCH_].checkout(True) ')
 
 _starter () {
     local d3vilpath
-    d3vilpath="d3vilbot.zip"
+    d3vilpath="D3vilUserbot.zip"
     echo "••• DOWNLOADING D3VILBOT •••"
     wget -q $(_d3vil_zip) -O "$d3vilpath"
     D3VILPATH=$(zipinfo -1 "$d3vilpath" | grep -v "/.");
