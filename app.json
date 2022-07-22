@@ -63,6 +63,11 @@
       "description": "Make a bot from @BotFather and paste the bot token here.",
       "value": ""
     },
+    "LOGGER_ID":{
+      "description": "Make private group and add rose. /id and paste here.",
+      "value": "",
+      "required": true
+    },
     "TAG_LOGGER": {
       "description": "Make a group and add rose. Do /id and paste the chat id here.",
       "value": "",
