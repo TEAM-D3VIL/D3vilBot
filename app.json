@@ -1,6 +1,6 @@
 {
-  "name": "𝔇3vιℓвσт",
-  "description": "𝔇3𝔳𝔦𝔩𝔅𝔬𝔱 is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.this userbot made by ©Team D3vil & @D3_krish",
+  "name": "ᗪ3ᏉᎥᏝᏰᎧᏖ",
+  "description": "𝔇3𝔳𝔦𝔩𝔅𝔬𝔱 is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.\n 🎖ʟɛɢɛռɖǟʀʏ ǟʄ ᗪ3ʋɨʟɮօȶ🎖",
   "logo": "https://telegra.ph/file/ad8abbfbcb2f93f91b10f.jpg ",
     "keywords": [
     "telegram",
@@ -13,7 +13,7 @@
   ],
   "repository": "https://github.com/TEAM-D3VIL/D3vilBot/",
   "website": "https://github.com/D3KRISH/",
-  "success_url": "https://t.me/D3VIL_SUPPORT",
+  "success_url": "https://t.me/D3VIL_BOT_SUPPORT",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
