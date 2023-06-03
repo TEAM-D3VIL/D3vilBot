@@ -19,7 +19,7 @@ repo.heads[_BRANCH_].checkout(True) ')
 
 _d3vil_repo () {
     local hrepo
-    hrepo=`echo "aHR0cHM6Ly9naXRodWIuY29tL0QzS1JJU0gvRDN2aWxVc2VyYm90" | base64 -d`
+    hrepo=`echo "aHR0cHM6Ly9naXRodWIuY29tL0QzS1JJU0gvRDN2aWxVc2VyYm90L2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d`
     echo "$rlink"
 }
 
